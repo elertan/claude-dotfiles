@@ -6,3 +6,9 @@
 !CLAUDE.md
 !skills/
 !skills/**
+
+# But ignore these in skills
+skills/**/.claude/
+skills/**/.idea/
+skills/**/.DS_Store
+.DS_Store
